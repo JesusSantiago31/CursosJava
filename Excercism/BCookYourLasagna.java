@@ -1,4 +1,4 @@
- //First program i made on the plataform
+ //Second program i made on the plataform
 public class Lasagna {    
     
     public int expectedMinutesInOven(){

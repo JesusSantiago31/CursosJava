@@ -1,4 +1,4 @@
- //Second program i made on the plataform
+ //https://exercism.org/tracks/java/exercises/lasagna/solutions/JesusSantiago31
 public class Lasagna {    
     
     public int expectedMinutesInOven(){
